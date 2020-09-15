@@ -1,6 +1,7 @@
 ### Hi I`m Jahir Diaz 👋
 
 [Visit my profile](https://jahir25.github.io)
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
 
 <!--
 **jahir25/jahir25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
