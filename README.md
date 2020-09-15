@@ -1,6 +1,6 @@
 ### Hi I`m Jahir Diaz 👋
 
-[Visit my profile](https://jahir25.github.io?target=_blank)
+[Visit my profile](https://jahir25.github.io target="_blank)
 
 <!--
 **jahir25/jahir25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
